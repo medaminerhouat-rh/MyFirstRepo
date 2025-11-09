@@ -1,0 +1,4 @@
+Brief Introduction About Myself  
+My name is Mohammed Amine, and I am a 19-year-old student currently living in the vibrant city of Mohammedia. I am dedicated to my studies and currently attend the Faculty of Sciences and Techniques (FST), where I am focusing on [ ELECTRICAL ENGINER STUDIES ]. My time at FST is helping me build a strong foundation in [analytical thinking and problem-solving], which I look forward to applying in future projects.
+
+I created this repository, MyFirstRepo, to take my initial steps in learning how to use GitHub effectively. I believe that mastering version control is crucial for any student in a technical field, and this task is helping me get comfortable with creating files, committing changes, and managing a project's history. I'm excited to continue using GitHub to track my academic and personal coding initiatives as I progress through my education.
