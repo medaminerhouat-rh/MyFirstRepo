@@ -1,2 +1,3 @@
 cd MyFirstRepo
 echo I've learned the basic Git workflow: clone, add, commit, and push. It's essential for collaboration. > learning.txt
+What I have learned from this course
